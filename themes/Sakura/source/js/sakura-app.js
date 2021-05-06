@@ -981,8 +981,8 @@ function get_poem (poem_ele, info_ele) {
   xhr.onreadystatechange = function () {
     if (xhr.readyState === 4) {
       var data = JSON.parse(xhr.responseText)
-      poem.innerHTML = data.data.content
-      info.innerHTML = '【' + data.data.origin.dynasty + '】' + data.data.origin.author + '《' + data.data.origin.title + '》'
+      poem.innerHTML = '苟利国家生死以，岂因祸福避趋之！'
+      info.innerHTML = '【' + '清代' + '】' + '林则徐' + '《' + '赴戍登程口占示家人二首' + '》'
     }
   }
   xhr.send()
