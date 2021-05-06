@@ -1,18 +1,18 @@
 # site name
 prefixName: Loe-Koyori's
-siteName: site
+siteName: Loe
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.png
 url: https://blogdemo.playmarxcards.online
 description: "The passion of destruction is also the passion of creation."
-cdn: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9
+cdn: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0
 pjax: 1
 # 1开启
 mathjax: 0
 
 notice: 欢迎来小代理家做客，要常来哦~
-lazyloadImg: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9/img/loader/orange.progress-bar-stripe-loader.svg
+lazyloadImg: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
