@@ -47,14 +47,14 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t5uajgfj31hc0u01a2.jpg
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t631397j31hc0u0tns.jpg
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t68qfa2j31hc0u0n64.jpg
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t6fzb05j32mb1lqb2e.jpg
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t6uh3dnj31hc0wukjn.jpg
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t76jbqfj31z4140npf.jpg
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t7c5kt6j31hc0u04qq.jpg
-  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t5uajgfj31hc0u01a2.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t631397j31hc0u0tns.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t68qfa2j31hc0u0n64.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6fzb05j32mb1lqb2e.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6uh3dnj31hc0wukjn.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t76jbqfj31z4140npf.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7c5kt6j31hc0u04qq.jpg
+  - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
