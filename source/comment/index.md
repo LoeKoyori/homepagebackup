@@ -4,7 +4,7 @@ date: 2018-12-20 23:13:48
 keywords: 留言板
 description: 
 comments: true
-photos: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.4/img/banner/comment.jpg
+photos: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9/img/banner/comment.jpg
 ---
 {% raw %}
 <div class="entry-content">
