@@ -170,13 +170,13 @@ function imgError (ele, type) {
   switch (type) {
     case 1:
       if (ele.src.includes('https://cn.gravatar.com/avatar')) {
-        ele.src = ele.src.replace('https://cn.gravatar.com/avatar/', 'https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/other/gravatar.jpg')
+        ele.src = ele.src.replace('https://cn.gravatar.com/avatar/', 'https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/other/gravatar.png')
       } else {
-        ele.src = 'https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/other/default_avatar.jpg'
+        ele.src = 'https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/other/default_avatar.png'
       }
       break
     case 2:
-      ele.src = 'https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/other/default_gavatar.jpg'
+      ele.src = 'https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/other/default_gavatar.png'
       break
     case 3:
 
