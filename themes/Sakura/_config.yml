@@ -5,7 +5,7 @@ siteName: site
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.png
 url: https://blogdemo.playmarxcards.online
-description: Live your life with passion! With some drive!
+description: "The passion of destruction is also the passion of creation."
 cdn: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9
 pjax: 1
 # 1开启
@@ -47,14 +47,14 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://blogdemo.playmarxcards.online/images/cover/1.jpg
-  - https://blogdemo.playmarxcards.online/images/cover/2.jpg
-  - https://blogdemo.playmarxcards.online/images/cover/3.jpg
-  - https://blogdemo.playmarxcards.online/images/cover/4.png
-  - https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9/img/cover/5.png
-  - https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9/img/cover/6.png
-  - https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9/img/cover/7.png
-  - https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@1.9/img/cover/8.png
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t5uajgfj31hc0u01a2.jpg
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t631397j31hc0u0tns.jpg
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t68qfa2j31hc0u0n64.jpg
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t6fzb05j32mb1lqb2e.jpg
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t6uh3dnj31hc0wukjn.jpg
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t76jbqfj31z4140npf.jpg
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t7c5kt6j31hc0u04qq.jpg
+  - http://ww1.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
