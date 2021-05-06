@@ -106,7 +106,7 @@ aplayer:
   loop: all
   order: random
   preload: auto
-  volume: 0.7
+  volume: 0.1
   mutex: true
 
 # Valine
