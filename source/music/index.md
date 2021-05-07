@@ -10,14 +10,14 @@ photos: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/banner/music.jpg
 <meting-js
   server="netease"
   type="playlist"
-  id="2731690811"
+  id="2660651585"
   mutex="true">
 </meting-js>
 
 <meting-js
   server="netease"
   type="playlist"
-  id="419239189"
+  id="2010168983"
   mutex="true">
 </meting-js>
 {% endraw %}
