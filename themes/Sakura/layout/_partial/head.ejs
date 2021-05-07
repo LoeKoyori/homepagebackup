@@ -68,7 +68,7 @@
   /*End of Initial Variables*/
   </script>
   <script type="text/javascript">
-  var bg = "https://tva2.sinaimg.cn/large/0072Vf1pgy1foxkf8h7q7j31hc0u0k55.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t631397j31hc0u0tns.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t68qfa2j31hc0u0n64.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6fzb05j32mb1lqb2e.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6uh3dnj31hc0wukjn.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t76jbqfj31z4140npf.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7c5kt6j31hc0u04qq.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg".split(",");
+  var bg = "http://tva2.sinaimg.cn/large/0072Vf1pgy1foxkf8h7q7j31hc0u0k55.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t631397j31hc0u0tns.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t68qfa2j31hc0u0n64.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6fzb05j32mb1lqb2e.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6uh3dnj31hc0wukjn.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t76jbqfj31z4140npf.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7c5kt6j31hc0u04qq.jpg,http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg".split(",");
   var bgindex = Math.floor(Math.random()*bg.length);
   if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
     alert('朋友，IE浏览器未适配哦~');
@@ -83,6 +83,14 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
   <script src="/live2d-widget/autoload.js"></script>
   
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/0072Vf1pgy1foxkf8h7q7j31hc0u0k55.jpg" as="image">
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t631397j31hc0u0tns.jpg" as="image">
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t68qfa2j31hc0u0n64.jpg" as="image">
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6fzb05j32mb1lqb2e.jpg" as="image">
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t6uh3dnj31hc0wukjn.jpg" as="image">
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t76jbqfj31z4140npf.jpg" as="image">
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7c5kt6j31hc0u04qq.jpg" as="image">
+  <link rel="preload" href="http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg" as="image">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 </head>
