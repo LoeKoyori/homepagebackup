@@ -54,7 +54,7 @@
   mashiro_option.cookie_version_control = "";
   mashiro_option.qzone_autocomplete = false;
   mashiro_option.site_name = "<%- theme.prefixName%><%- theme.siteName%>";
-  mashiro_option.author_name = "<%- theme.siteName%>";
+  mashiro_option.author_name = "<%- theme.siteName%>"; //警告，可能会出现作者名称问题
   mashiro_option.site_url = "<%- theme.url%>";
   mashiro_option.v_appId = "<%= theme.v_appId %>";
   mashiro_option.v_appKey = "<%= theme.v_appKey %>";
@@ -83,6 +83,7 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
   <script src="/live2d-widget/autoload.js"></script>
   
+  <!--预加载背景图片-->
   <link rel="preload" href="https://tva2.sinaimg.cn/large/0072Vf1pgy1foxkf8h7q7j31hc0u0k55.jpg" as="image">
   <link rel="preload" href="https://tva2.sinaimg.cn/large/007gk3UJgy1gq8t631397j31hc0u0tns.jpg" as="image">
   <link rel="preload" href="https://tva2.sinaimg.cn/large/007gk3UJgy1gq8t68qfa2j31hc0u0n64.jpg" as="image">
@@ -91,6 +92,9 @@
   <link rel="preload" href="https://tva2.sinaimg.cn/large/007gk3UJgy1gq8t76jbqfj31z4140npf.jpg" as="image">
   <link rel="preload" href="https://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7c5kt6j31hc0u04qq.jpg" as="image">
   <link rel="preload" href="https://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg" as="image">
+
+  <!--预加载404页面背景图片-->
+  <link rel="preload" href="https://blogdemo.playmarxcards.online/images/bg.jpg" as="image">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 </head>

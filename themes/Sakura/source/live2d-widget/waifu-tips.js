@@ -77,7 +77,7 @@ function loadWidget(config) {
 			Live2D.captureFrame = true;
 		});
 		document.querySelector("#waifu-tool .fa-info-circle").addEventListener("click", () => {
-			open("https://www.playmarxcards.online/");
+			open("https://blogdemo.playmarxcards.online/about/");
 		});
 		document.querySelector("#waifu-tool .fa-times").addEventListener("click", () => {
 			localStorage.setItem("waifu-display", Date.now());

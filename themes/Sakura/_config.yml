@@ -1,11 +1,11 @@
 # site name
 prefixName: Loe-Koyori's
-siteName: site
+siteName:  " site"
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.png
-url: https://blogdemo.playmarxcards.online
-description: "The passion of destruction is also the passion of creation."
+url: https://blogdemo.playmarxcards.online/
+description: "\"The passion of destruction is also the passion of creation.\""
 cdn: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0
 pjax: 1
 # 1开启
@@ -72,21 +72,21 @@ siteBuildingTime: 08/17/1926
 
 #social  url, img PC端配置
 social:
-  github: {url: github.html, img: /img/social/github.png}
-  sina: {url: sina.html, img: /img/social/sina.png}
-  wangyiyun: {url: wangyiyun.html, img: /img/social/wangyiyun.png}
-  zhihu: {url: zhihu.html, img: /img/social/zhihu.png}
-  email: {url: email.html, img: /img/social/email.svg}
+  github: {url: https://blogdemo.playmarxcards.online/github.html, img: /img/social/github.png}
+  sina: {url: https://blogdemo.playmarxcards.online/sina.html, img: /img/social/sina.png}
+  wangyiyun: {url: https://blogdemo.playmarxcards.online/wangyiyun.html, img: /img/social/wangyiyun.png}
+  zhihu: {url: https://blogdemo.playmarxcards.online/zhihu.html, img: /img/social/zhihu.png}
+  email: {url: https://blogdemo.playmarxcards.online/email.html, img: /img/social/email.svg}
   
 
 #social  url, img 移动端配置
 msocial:
-  github: {url: github.html, fa: fa-github, color: 333}
-  weibo: {url: weibo.html, fa: fa-weibo, color: dd4b39}
+  github: {url: https://blogdemo.playmarxcards.online/github.html, fa: fa-github, color: 333}
+  weibo: {url: https://blogdemo.playmarxcards.online/weibo.html, fa: fa-weibo, color: dd4b39}
   
 
 donate:
-  paypal: paypal.html
+  paypal: ../paypal.html
   alipay: /img/custom/donate/AliPayQR.jpg
   wechat: /img/custom/donate/WeChanQR.png
   wechatSQ: /img/custom/donate/WeChanSQ.jpg
