@@ -4,7 +4,7 @@ date: 2018-12-12 22:14:36
 keywords: 关于
 description: 
 comments: false
-photos: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/banner/about.jpg
+photos: http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t5uajgfj31hc0u01a2.jpg
 ---
 {% raw %}
 <!-- 因为vue和botui更新导至bug,现将对话移至js下的botui中配置 -->
