@@ -24,18 +24,18 @@ menus:
     转载: {path: /categories/转载/, fa: fa-book }
   } }
   清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
-    书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
+    # 书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
     番组: {path: /bangumi/, fa: fa-film faa-vertical }, 
     歌单: {path: /music/, fa: fa-headphones },
     图集: {path: /photo.html, fa: fa-photo }
   } }
   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
-  友人帐: { path: /links/, fa: fa-link faa-shake }
+  # 友人帐: { path: /links/, fa: fa-link faa-shake }
   赞赏: { path: /donate/, fa: fa-heart faa-pulse }
   关于: { path: /, fa: fa-leaf faa-wrench , submenus: { 
     我？: {path: /about/, fa: fa-meetup}, 
     主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
-    Lab: {path: /lab/, fa: fa-cogs },
+    # Lab: {path: /lab/, fa: fa-cogs },
   } }
   APP: { path: /client/, fa: fa-android faa-vertical }
   RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
@@ -95,7 +95,7 @@ donate:
 movies:
   url: https://cdn.jsdelivr.net/gh/LoeKoyori/video
   # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
-  name: yezhong_x264.mp4
+  name: yezhong_o.mp4
 
 aplayer: 
   id: 2660651585

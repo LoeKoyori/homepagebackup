@@ -59,6 +59,18 @@
     <div class="video-stu">
     </div>
   </div>
+  <script> 
+   if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+     var object2 = document.getElementById('TextHeader'); //通过id获取器获取对应元素
+     if (object2 != null){
+        object2.parentNode.removeChild(object2);     //删除对应的元素信息
+     }
+     var object3 = document.getElementById('video-container'); //通过id获取器获取对应元素
+     if (object3 != null){
+        object3.style.display = 'none';     //隐藏对应的元素
+     }
+   } 
+  </script> 
   <div class="headertop-down faa-float animated" onclick="headertop_down()">
     <span>
       <i class="fa fa-chevron-down" aria-hidden="true">
