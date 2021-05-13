@@ -2,16 +2,16 @@
 title: 使用 Moyea SWF to Video Converter 实现 swf 文件转换 mp4 文件
 author: Loe-Koyori
 avatar: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/custom/avatar.png
-authorLink: blogdemo.playmarxcards.online
+authorLink: https://blogdemo.playmarxcards.online
 authorAbout: 一个好奇的人
 authorDesc: 一个好奇的人
 categories: 技术
 date: 2021-5-13 14:18:01
 comments: true
 tags: 
- - web
+ - 教程
 keywords: SWF
-description: 
+description: swf文件转换mp4文件
 photos: https://ww1.sinaimg.cn/large/007gk3UJgy1gqgrviycw6j31z4140kfr.jpg
 ---
 前几天，父母给我发了一条消息和两个 swf 文件。我很惊奇：这都2021年了，怎么还有 swf 文件呢？一问原因，原来妹妹的学校还在沿用上古时期传下来的课件，而老师也只在家长群里发了 swf 文件，结果家长们纷纷打不开，父母便向我求助。
