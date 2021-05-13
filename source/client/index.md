@@ -4,7 +4,7 @@ date: 2018-12-20 23:13:35
 keywords: Android客户端
 description: 
 comments: false
-photos: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/banner/client.jpg
+photos: http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t7hjcy2j31hc0u0x6p.jpg
 ---
 <center>[直接下载](https://cdn.jsdelivr.net/gh/LoeKoyori/video/Blog_1.3.apk) or 扫码下载：</center>
 {% raw %}

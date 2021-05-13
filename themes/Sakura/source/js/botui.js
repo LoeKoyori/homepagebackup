@@ -33,7 +33,7 @@ function bot_ui_ini() {
                 content: "一个可爱的蓝孩子~"
             }).then(function () {
                 botui.action.button({
-                    delay: 1600,
+                    delay: 1000,
                     action: [{
                         text: "然后呢？ 😃",
                         value: "sure"
@@ -60,7 +60,17 @@ function bot_ui_ini() {
             botui.message.add({
                 delay: 600,
                 content: "![...](https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.1/img/about/end.gif)"
-            })
+            }).then(function () {
+                botui.action.button({
+                    delay: 1200,
+                    action: [{
+                        text: "然后呢？ 😃",
+                        value: "sure"
+                    }]    
+                }).then(function () {
+                        secondpart()
+                })
+            })       
         },
         secondpart = function () {
             botui.message.add({
