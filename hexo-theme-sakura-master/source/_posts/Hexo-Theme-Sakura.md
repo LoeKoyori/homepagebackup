@@ -3,8 +3,8 @@ title: Hexo-Theme-Sakura
 author: Loe-Koyori
 avatar: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/custom/avatar.png
 authorLink: hojun.cn
-authorAbout: 一个好奇的人
-authorDesc: 一个好奇的人
+authorAbout: 一个在学习如何思考的人
+authorDesc: 一个在学习如何思考的人
 categories: 技术
 date: 2018-12-12 22:16:01
 comments: true

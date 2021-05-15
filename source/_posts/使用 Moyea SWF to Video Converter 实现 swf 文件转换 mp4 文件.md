@@ -3,8 +3,8 @@ title: 使用 Moyea SWF to Video Converter 实现 swf 文件转换 mp4 文件
 author: Loe-Koyori
 avatar: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/custom/avatar.png
 authorLink: https://blogdemo.playmarxcards.online
-authorAbout: 一个好奇的人
-authorDesc: 一个好奇的人
+authorAbout: 一个在学习如何思考的人
+authorDesc: 一个在学习如何思考的人
 categories: 技术
 date: 2021-5-13 14:18:01
 comments: true

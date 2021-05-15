@@ -6,7 +6,7 @@ favicon: /images/favicon.ico
 avatar: /img/custom/avatar.png
 url: https://blogdemo.playmarxcards.online/
 description: "\"The passion of destruction is also the passion of creation.\""
-cdn: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0
+cdn: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.2
 pjax: 1
 # 1开启
 mathjax: 0
@@ -18,10 +18,16 @@ menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
   归档: { path: /archives, fa: fa-archive faa-shake, submenus: { 
     技术: {path: /categories/技术/, fa: fa-code }, 
-    生活: {path: /categories/生活/, fa: fa-file-text-o }, 
-    资源: {path: /categories/资源/, fa: fa-cloud-download }, 
-    随想: {path: /categories/随想/, fa: fa-commenting-o },
+    推介: {path: /categories/介绍/, fa: fa-file-text-o }, 
+    # 资源: {path: /categories/资源/, fa: fa-cloud-download }, 
+    评论: {path: /categories/评论/, fa: fa-commenting-o },
     杂谈: {path: /categories/杂谈/, fa: fa-book }
+  } }
+  栏目: { path: /archives, fa: fa fa-tags, submenus: { 
+    笑林广记: {path: /tags/笑林广记/, fa: fa fa-star }, 
+    聊斋志异: {path: /tags/聊斋志异/, fa: fa fa-star }, 
+    时事评论: {path: /tags/时事评论/, fa: fa-commenting-o },
+    理论探讨: {path: /tags/理论探讨/, fa: fa-book }
   } }
   清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
     # 书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
@@ -61,9 +67,9 @@ bgclass: filter-dot
 
 # startdash url, title, desc img
 startdash: 
-  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/sakura.md.png}
-  - {url: http://space.bilibili.com/271849279, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/bilibili.jpg}
-  - {url: /, title: hojun的万事屋, desc: 技术服务, img: /img/startdash/wangshiwu.jpg}
+  - {url: /1926/08/17/Hello%20World/, title: Hello World, desc: 建站宣言, img: /img/startdash/helloworld.jpg}
+  - {url: /about/, title: 关于我, desc: 与我对话, img: /img/startdash/bilibili.jpg}
+  - {url: /client/, title: 本站Android客户端下载, desc: 但是在pc浏览本站体验更佳哦~, img: /img/cover/8.webp}
 
 
 
