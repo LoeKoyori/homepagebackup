@@ -5,7 +5,8 @@ siteName:  " site"
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.png
 url: https://blogdemo.playmarxcards.online/
-description: "\"The passion of destruction is also the passion of creation.\""
+description: "\"The passion of destruction is also the passion of creation.\"" # Sin Banderas Ni Fronteras 没有国旗，没有边界
+descriptionmobile: Sin Banderas Ni Fronteras 没有国旗 没有边界
 cdn: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.2
 pjax: 1
 # 1开启
@@ -18,7 +19,7 @@ menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
   归档: { path: /archives, fa: fa-archive faa-shake, submenus: { 
     技术: {path: /categories/技术/, fa: fa-code }, 
-    推介: {path: /categories/介绍/, fa: fa-file-text-o }, 
+    推介: {path: /categories/推介/, fa: fa-file-text-o }, 
     # 资源: {path: /categories/资源/, fa: fa-cloud-download }, 
     评论: {path: /categories/评论/, fa: fa-commenting-o },
     杂谈: {path: /categories/杂谈/, fa: fa-book }

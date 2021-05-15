@@ -42,22 +42,40 @@ insight:
 
 #category
 技术:
-    zh: 野生技术协会
-    en: Geek – Only for Love
+    zh: 技术
+    en: Geek – Only for Fun
     img: https://ww1.sinaimg.cn/large/007gk3UJgy1gqdos5q1tij31z4140mzw.jpg
 生活:
-    zh: 生活
-    en: live
-    img: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/banner/writing.jpg
-
+    zh: 推介
+    en: Recommendation
+    img: https://ww1.sinaimg.cn/large/007gk3UJly1gqji7ymh5dj30zk0k0n2o.jpg
+评论: 
+    zh: 评论
+    en: Comment
+    img: https://ww1.sinaimg.cn/large/007gk3UJgy1gqjich3t0hj310m0mmgt7.jpg
 杂谈: 
     zh: 杂谈
     en: Tittle-Tattle
     img: https://ww1.sinaimg.cn/large/007gk3UJgy1gqh7l8uxo5j31z4140wwo.jpg
 
 #tag
-悦读:
-    img: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/banner/reading.jpg
+web:
+    img: https://ww1.sinaimg.cn/large/007gk3UJgy1gqjiiimronj30xc0fqtuf.jpg
 
 教程:
     img: https://ww1.sinaimg.cn/large/007gk3UJly1gqh75ykylqj30ei070n0n.jpg
+
+随笔:
+    img: https://ww1.sinaimg.cn/large/007gk3UJgy1gqjik9kq9rj30xc0ij7f6.jpg
+
+笑林广记:
+    img: https://ww1.sinaimg.cn/large/007gk3UJgy1gqjimthufrj30ci0godgk.jpg
+
+聊斋志异:
+    img: https://ww1.sinaimg.cn/large/007gk3UJgy1gqjiqulcmpj30xc0iq76i.jpg
+
+时事评论:
+    img: https://ww1.sinaimg.cn/large/007gk3UJly1gqjiti000uj30na0d379d.jpg
+
+理论探讨:
+    img: https://ww1.sinaimg.cn/large/007gk3UJly1gqjivz02ddj31z4140agv.jpg
