@@ -2,8 +2,8 @@
 title: {{ title }}
 date: {{ date }}
 author: Loe-Koyori
-avatar: https://wx1.sinaimg.cn/large/006bYVyvgy1ftand2qurdj303c03cdfv.jpg
-authorLink: hojun.cn
+avatar: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/custom/avatar.png
+authorLink: https://blogdemo.playmarxcards.online
 authorAbout: 一个在学习如何思考的人
 authorDesc: 一个在学习如何思考的人
 categories: 技术

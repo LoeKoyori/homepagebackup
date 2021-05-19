@@ -1,3 +1,4 @@
+<!--
 ---
 title: lab
 comments: false
@@ -9,3 +10,4 @@ photos: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/banner/lab.jpg
 
 ## sakura主题
 balabala
+-->
