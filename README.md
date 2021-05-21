@@ -1,1 +1,1 @@
-[中文文档&DOCS](https://docs.hojun.cn/sakura/docs/)
+[LoeKoyori的个人博客](https://blogdemo.playmarxcards.online)
