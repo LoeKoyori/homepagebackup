@@ -5,11 +5,11 @@ avatar: https://cdn.jsdelivr.net/gh/LoeKoyori/cdn@2.0/img/custom/avatar.png
 authorLink: https://blogdemo.playmarxcards.online
 authorAbout: 一个在学习如何思考的人
 authorDesc: 一个在学习如何思考的人
-categories: 杂谈
+categories: 技术
 date: 2021-4-24 23:05:20
 comments: true
 tags: 
- - 随笔
+ - 教程
 keywords: Unity 
 description: 应用开源项目AssetStudio
 photos: https://ww1.sinaimg.cn/large/007gk3UJgy1gqr9o39u46j31z41401fu.jpg
