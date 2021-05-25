@@ -51,7 +51,7 @@ menus:
 # Home page sort type: -1: newer first，1: older first.
 homePageSortType: -1
 # Home page article shown number)
-homeArticleShown: 10
+homeArticleShown: 30
 # 背景图片 更好的修改
 bg:
   - http://tva2.sinaimg.cn/large/007gk3UJgy1gq8t5uajgfj31hc0u01a2.jpg
